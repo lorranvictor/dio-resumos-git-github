@@ -7,7 +7,7 @@ Repoditório para armazenar resumos sobre git e github do curso Versionamento de
 - [documentação Github](https://github.com/)
 
 ## 🖥️ Resumo das aulas
-| Aulas | Resumos |
+| Aulas | Resumo |
 |-------|--------|
 | Gravando Alterações no repósitorio local | [resumos]() |
 
